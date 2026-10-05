@@ -1,0 +1,4 @@
+openai-whisper
+pydub
+moviepy<2.0.0
+audioop-lts
